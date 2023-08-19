@@ -1,0 +1,69 @@
+body {
+  background-color: #d7ecab;
+}
+.navbar {
+  background-color: #0c6b3d;
+}
+.navbar ul li {
+  margin-left: 10px;
+}
+.navbar ul li a {
+  color: #fff;
+  font-size: 15px;
+}
+.navbar ul li:hover a {
+  background-color: #fff;
+  color: #0c6b3d;
+}
+.btn-color {
+  background-color: white;
+}
+.carousel:hover .bgcolor {
+  background-color: #0c6b3d;
+  border-radius: 50%;
+  padding: 20px;
+}
+.box {
+  background-color: #1e8c4d;
+  padding: 10px;
+  color: #fff;
+}
+.main p {
+  font-size: 14px;
+  font-weight: 600;
+}
+.cola {
+  color: #0c6b3d;
+}
+.div-wrapper {
+  background-color: #fff;
+  box-shadow: 0.2px 0.2px 0.2px 0.3px #000;
+  height: auto;
+  padding: 10px;
+}
+.box p,
+i {
+  font-size: 20px;
+}
+.small-menu a {
+  text-decoration: none;
+  color: #fff;
+  display: inline-block;
+  margin-left: 5px;
+  float: right;
+}
+.warp {
+  background-color: #0c6b3d;
+  padding: 10px;
+}
+.top a {
+  display: inline-block;
+}
+.top p:hover {
+  background-color: #fff;
+  color: #1e8c4d;
+}
+.small-menu a:hover {
+  background-color: #fff;
+  color: #1e8c4d;
+}
